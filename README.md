@@ -1,4 +1,4 @@
 Neural Networks lab assignment
-Name =  Lavnish Pandey 
-Roll = 2301010181
+Name =  Aditya Raj Singh
+Roll = 2301010195
 Course = BTech Cse C
